@@ -1,0 +1,7 @@
+# Global ignores
+.idea
+
+# Website ignores
+_site
+.sass-cache
+.jekyll-metadata
