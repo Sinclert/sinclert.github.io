@@ -1,0 +1,52 @@
+/*
+Error: File to import not found or unreadable: base/variables.
+        on line 2 of style.scss
+
+1: 
+2: @import "base/variables";
+3: @import "base/normalize";
+4: @import "base/syntax";
+5: @import "base/general";
+6: @import "base/helpers";
+7: 
+
+Backtrace:
+style.scss:2
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:67:in `rescue in import'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:44:in `import'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:28:in `imported_file'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:37:in `css_import?'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:310:in `visit_import'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `block in with_base'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in `with_frame'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `with_base'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:10:in `visit'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:387:in `run'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+/Users/Sinclert/.gem/ruby/2.6.0/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'
+/Users/Sinclert/.gem/ruby/2.6.0/bin/sass:23:in `load'
+/Users/Sinclert/.gem/ruby/2.6.0/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: File to import not found or unreadable: base/variables.\A         on line 2 of style.scss\A \A 1: \A 2: @import \"base/variables\";\A 3: @import \"base/normalize\";\A 4: @import \"base/syntax\";\A 5: @import \"base/general\";\A 6: @import \"base/helpers\";\A 7: "; }
