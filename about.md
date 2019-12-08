@@ -4,43 +4,29 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+I work as a Research Software Engineer at the <a href="https://cds.nyu.edu">Center for Data Science</a> in the New York University.
+I have previously worked as Data Engineer at a spanish start-up called <a href="https://cabify.com/en">Cabify</a>, and as 
+an Openlab intern at <a href="https://home.cern">CERN</a> (Switzerland), helping on the <a href="http://www.reana.io">REANA</a> project.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+My interests verse on software engineering, data pipelines, system scalability and devops.
+I have experience with different languages such as Python, Java, Golang, SQL, JavaScript or HTML/CSS;
+and technologies such as Docker, Kubernetes, Apache Spark / Beam, Prometheus, React, Git or C.I. tooling.
+</p>
 
-<h2>Skills</h2>
+<p>
+In this blog you will find posts mainly on software topics, but also on science and personal-organization.
+</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/Sinclert/Twitter-Dashboard-Server">Twitter dashboard (back)</a></li>
+	<li><a href="https://github.com/Sinclert/Twitter-Dashboard-Client">Twitter dashboard (front)</a></li>
+	<li><a href="https://github.com/Sinclert/FaceRecognizer">Face recognizer</a></li>
+	<li><a href="https://github.com/Sinclert/SentimentAI">Sentiment analysis hierarchical classification</a></li>
+	<li><a href="https://github.com/Sinclert/Heuristics-TSP">Travelling Salesman Problem</a></li>
 </ul>
