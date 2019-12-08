@@ -2,7 +2,7 @@
 name: Sinclert Pérez
 bio: Research Software Engineer at Data Science @ NYU
 
-# twitter summary info
+# blog summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
@@ -11,9 +11,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url:
+resume: true
+resume-external: true
+resume-url: https://www.linkedin.com/in/Sinclert
 
 url: https://sinclert.github.io
 
