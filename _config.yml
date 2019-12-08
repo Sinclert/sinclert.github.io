@@ -1,12 +1,11 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Sinclert Pérez
+bio: Research Software Engineer at Data Science @ NYU
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
-# better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
@@ -16,29 +15,22 @@ resume: false
 resume-external: false
 resume-url:
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://sinclert.github.io
 
 permalink: /:title/
 
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: myemail@gmail.com
+twitter:  Sinclert_95
+github:   Sinclert
+linkedin: Sinclert
+email:    Sinclert@hotmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    sinclert:
+        name: Sinclert Pérez
+        bio: Research Software Engineer at Data Science @ NYU
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: Sinclert_95
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
