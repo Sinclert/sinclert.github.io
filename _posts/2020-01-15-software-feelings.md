@@ -33,47 +33,11 @@ this phenomenon occurs, which are the effects to our social skills, and how I fe
 Software has one of the most flexible learning curves of any field. Learning how to do basic operations can take 
 as little time as minutes, given that it does not require us to understand what is going on under the hood to work with it.
 Therefore, one can go as deeper as desired, internalizing the implications of coding this or that other way;
-learning this or that design pattern, or expecting this or that much traffic...
+learning this or that design pattern, preparing for this or that scale size...
 
-As an example, I will illustrate what my mind considers when designing a project:
-
-_Imagine you are building a simple application, that allow people to upload pictures of hand-written notes,
-to be transformed into digital text._
-
-Just by reading that previous statement, I have already thought:
-
-- This lays into a typical Front-Back architecture.
-- The _Front-end_ (user interface) would be a mobile app, and/or a web UI.
-- There is no data model to be designed, as what the application offer can be performed without a database.
-- The _Back-end_ (server side) steps are clear:
-    - Image standardization.
-    - Text detection.
-    - Text cleaning.
-    - Text analysis.
-    - Output generation.
-- The _Back-end_ (server side) would need some:
-    - Optic Character Recognition (OCR) piece.
-    - Web-server piece.
-    - Image processing piece.
-- I know testing frameworks usually determine project folder structure, so I will review that first.
-- The most critical part is clearly the OCR software.
-- The most critical part, the OCR, is desired to be performed _locally_, instead of connecting to some cloud provider
-(Google, Amazon, Microsoft...) that may have that functionality.
-- Why, you ask? Because that would imply both a network overhead, and some additional billing.
-- Library selection is important, and the place to look for them is [GitHub](https://github.com).
-- The best libraries are the ones with a good balance between:
-    - The most _stars_.
-    - The most recent release.
-- Why, you ask? Because that implies that the library is currently maintained, so the original authors may be
-happy to solve any problem that piece of software may have, once we dig into it.
-- The application need to be made publicly available using a cloud server.
-- Having alerts in case the application crashes, is a good feature to decide for one or another cloud provider.
-
-As you see, nothing of the previous thoughts are complex _per se_, but they involve understanding the implications of
+Not many of them require complex thinking _per se_, but they involve understanding the implications of
 software development, being able to see problems in advance, designing good architectures, understand the risks of
 external dependencies and so on.
-
-All of that without typing a single key.
 
 
 ## How abstraction affect us
