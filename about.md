@@ -19,14 +19,3 @@ and technologies such as Docker, Kubernetes, Apache Spark / Beam, Prometheus, Re
 <p>
 In this blog you will find posts mainly on software topics, but also on science and personal-organization.
 </p>
-
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/Sinclert/Twitter-Dashboard-Server">Twitter dashboard (back)</a></li>
-	<li><a href="https://github.com/Sinclert/Twitter-Dashboard-Client">Twitter dashboard (front)</a></li>
-	<li><a href="https://github.com/Sinclert/FaceRecognizer">Face recognizer</a></li>
-	<li><a href="https://github.com/Sinclert/SentimentAI">Sentiment analysis hierarchical classification</a></li>
-	<li><a href="https://github.com/Sinclert/Heuristics-TSP">Travelling Salesman Problem</a></li>
-</ul>
