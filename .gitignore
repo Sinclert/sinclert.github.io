@@ -1,6 +1,10 @@
 # Global ignores
 .idea
 
+# Dependencies ignores
+.bundle
+vendor
+
 # Website ignores
 _site
 .sass-cache
