@@ -2,20 +2,21 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>
-I work as a Research Software Engineer at the <a href="https://cds.nyu.edu">Center for Data Science</a> in the New York University.
-I have previously worked as Data Engineer at a spanish start-up called <a href="https://cabify.com/en">Cabify</a>, and as 
-an Openlab intern at <a href="https://home.cern">CERN</a> (Switzerland), helping on the <a href="http://www.reana.io">REANA</a> project.
-</p>
+I am a Software Engineer working at the [Center for Data Science][nyu-cds-web] in New York University.
+Previously, I worked as Data Engineer at a mobility start-up called [Cabify][cabify-web] and as
+an Openlab Summer Student intern at [CERN][cern-web] (Switzerland), contributing to the [REANA][reana-web] project.
 
-<p>
-My interests verse on software engineering, data pipelines, system scalability and devops.
-I have experience with different languages such as Python, Java, Golang, SQL, JavaScript or HTML/CSS;
-and technologies such as Docker, Kubernetes, Apache Spark / Beam, Prometheus, React, Git or C.I. tooling.
-</p>
+My interests verse on software engineering, data pipelines, cloud infrastructure and tooling.
+My experience covers languages such as Python, Java, Golang, SQL, JavaScript or HTML/CSS;
+and technologies such as Docker, Kubernetes, Apache Spark / Beam, Prometheus, React, GIT or C.I. systems.
 
-<p>
 In this blog you will find posts mainly on software topics, but also on science and personal-organization.
-</p>
+
+
+[cabify-web]: https://cabify.com/en
+[cern-web]: https://home.cern
+[nyu-cds-web]: https://cds.nyu.edu
+[reana-web]: http://www.reana.io
