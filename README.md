@@ -8,9 +8,22 @@ For more detailed information about how you can make your blog looks different (
 or how the GitHub pages hosting can be integrated with project-specific websites, check out
 my [very first blog post][blog-setting-up-post].
 
----
 
-The blog is available on [sinclert.github.io/blog][blog-url].
+## Local environment
+To locally deploy the website, install the Jekyll related dependencies by doing:
+
+```shell
+bundle config set path "vendor/bundle"
+bundle install
+```
+
+Then you can either:
+- **Deploy** the application executing `scripts/deploy.sh`.
+- **Test** the application executing `scripts/test.sh`.
+
+
+## Public access
+The blog is publicly available on [sinclert.github.io/blog][blog-url].
 
 
 [blog-url]: https://sinclert.github.io/blog/
