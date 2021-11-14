@@ -19,7 +19,7 @@ url: https://sinclert.github.io
 
 permalink: /:title/
 
-twitter:  Sinclert_95
+twitter:  Sinclert_
 github:   Sinclert
 linkedin: Sinclert
 email:    Sinclert@hotmail.com
@@ -30,7 +30,7 @@ authors:
         bio: Research Software Engineer @ NYU
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: Sinclert_95
+        twitter: Sinclert_
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
