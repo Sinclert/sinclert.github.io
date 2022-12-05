@@ -175,6 +175,7 @@ Choose your favourite static analyzer and start coding 🚀.
 [pycharm-website]: https://www.jetbrains.com/pycharm
 [python-pep-3107]: https://www.python.org/dev/peps/pep-3107
 [python-pep-0484]: https://www.python.org/dev/peps/pep-0484
+[Learn Python Programming]: https://www.scaler.com/topics/python/
 
 [mypy-repository]: https://github.com/python/mypy
 [pyright-repository]: https://github.com/Microsoft/pyright
