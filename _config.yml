@@ -1,6 +1,6 @@
 # main text of home
 name: Sinclert Pérez
-bio: Software Engineer @ Shopify
+bio: Sr Software Engineer @ Shopify
 
 # blog summary info
 description: A blog about technology and stuff related
@@ -27,7 +27,7 @@ email:    Sinclert@hotmail.com
 authors:
     sinclert:
         name: Sinclert Pérez
-        bio: Software Engineer @ Shopify
+        bio: Sr Software Engineer @ Shopify
         external-image: false
         picture: assets/images/profile.jpg
         twitter: Sinclert_
