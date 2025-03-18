@@ -261,14 +261,14 @@ into the application through the use of a `<script>` tag within `index.html`.
 I would love to hear from experienced React developers. How do you fight this limitation?
 Do you use any simplified procedure to achieve the same goals?
 
-Let me know at 🐦 [@Sinclert_95][twitter-sinclert].
+Let me know at 🦋 [@sinclert][bluesky-sinclert].
 
 
 [article-env-vars-1]: https://medium.com/datadriveninvestor/how-to-add-custom-environment-variables-to-your-create-react-app-6c336e081075
 [article-env-vars-2]: https://trekinbami.medium.com/using-environment-variables-in-react-6b0a99d83cf5
 [article-env-vars-3]: https://www.freecodecamp.org/news/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70/
+[bluesky-sinclert]: https://bsky.app/profile/sinclert.bsky.social
 [cra-env-variables]: https://create-react-app.dev/docs/adding-custom-environment-variables/
 [cra-web]: https://create-react-app.dev/
 [section-solution]: #proposed-solution
-[twitter-sinclert]: https://twitter.com/sinclert_95
 [webpack-web]: https://webpack.js.org/

@@ -19,7 +19,7 @@ url: https://sinclert.github.io
 
 permalink: /:title/
 
-twitter:  Sinclert_
+bluesky:  sinclert
 github:   Sinclert
 linkedin: Sinclert
 email:    Sinclert@hotmail.com
@@ -30,7 +30,7 @@ authors:
         bio: Software Engineer @ Canonical
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: Sinclert_
+        bluesky: sinclert
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -127,7 +127,7 @@ domain GitHub offer us, to create a centralized location to manage our posts and
 
 This very own blog has been built **using these tools, and a very simple theme called [Indigo][jekyll-indigo-theme]!**
 
-If you liked this post you can contact me on Twitter.
+If you liked this post you can contact me on BlueSky.
 Happy blogging :)
 
 
